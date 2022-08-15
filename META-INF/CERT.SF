@@ -1,0 +1,160 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: Iky5K0xsEksKsMfmhCUuKuRV/SM=
+
+Name: res/drawable/icon_14.png
+SHA1-Digest: u4XIeGp46pBkqBNC6lpBSSZo2XU=
+
+Name: res/drawable/icon_20.png
+SHA1-Digest: 4v6jbtccBONi0VoqV53gA4xoZqM=
+
+Name: res/layout/temp.xml
+SHA1-Digest: 3S9JGEMMRlZeJJDb0ktW0Xi6wYE=
+
+Name: res/drawable/capture_image.png
+SHA1-Digest: QeBJBYJNIwAkjab/7qjxrcuJDA4=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: OFpQo2qnvsnbuUPVi+j74ptzgFA=
+
+Name: res/drawable/icon_12.png
+SHA1-Digest: KqOPyW0/R6gOswEVUSy/oFRlYrs=
+
+Name: res/drawable/icon_camera.png
+SHA1-Digest: CgX5j9AavNYbXmD7UQf/kYg6k6U=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: TMVnLFEwgM5tUf9PGCmYob0Drx0=
+
+Name: res/drawable/list_background.xml
+SHA1-Digest: uv4+RjzL+jHqMxJfzrADE4DiPuw=
+
+Name: res/drawable/splash.JPG
+SHA1-Digest: umhHVd++Txpvrq9iAxMXYDzf26o=
+
+Name: res/drawable/capture_image1.png
+SHA1-Digest: 8V6dAi59EUIS28x66y5Ee1uopSg=
+
+Name: res/drawable/icon_18.png
+SHA1-Digest: mPOv8/cxqrO6mNjYNFNi2KfRP0A=
+
+Name: res/drawable/icon_7.png
+SHA1-Digest: RMMs8aYT40ZQmN4q+M+EHZkf3DI=
+
+Name: res/drawable/icon_8.png
+SHA1-Digest: 09hEnFwjaG2qTEMHzS+1er3HyUE=
+
+Name: res/drawable/icon_gallery.png
+SHA1-Digest: CnUqQztmuE5cYwbE6okKTUIlMwo=
+
+Name: res/drawable/icon_13.png
+SHA1-Digest: nJyQQGxz5aOj0Kio4j6HgfhRIIo=
+
+Name: res/drawable/icon_15.png
+SHA1-Digest: A0vHuqJ1k4u/s/FufjWRH6Fb6ck=
+
+Name: res/drawable/icon_4.png
+SHA1-Digest: Mvm0YUckVhvpBQeMgehIFAak2YQ=
+
+Name: res/drawable/icon_2.png
+SHA1-Digest: 4OwOHwMZe9Ssqtmf30pcUTx6GYY=
+
+Name: res/drawable/icon_3.png
+SHA1-Digest: afGcFdsZXSyt1oQLujJ8YB3bGKs=
+
+Name: res/drawable/other_button.xml
+SHA1-Digest: O0Giyvmg2augXKK+lLRREVkTtkU=
+
+Name: res/drawable/rate_button.xml
+SHA1-Digest: KHVfqGQGm+I5GrP80vKrZ3gaWrk=
+
+Name: res/drawable/icon_6.png
+SHA1-Digest: MSGuvetyTBllyTLqMLv58hFk9H0=
+
+Name: res/drawable/layout_background.xml
+SHA1-Digest: rTOnSaqBRWDC19LVdnPwjXKQW8Y=
+
+Name: res/drawable/background.png
+SHA1-Digest: LQoKYI3x+xJ8/yyQ1Ia3DPOMNCY=
+
+Name: res/drawable/icon_9.png
+SHA1-Digest: PVhaSkxmCs5dLDQQI1GQ4IEq9/A=
+
+Name: res/drawable/btn_rate.png
+SHA1-Digest: FzI4WBBb0EY7ZL/0z/feMoZubLo=
+
+Name: res/drawable/icon_17.png
+SHA1-Digest: M2ZZKSGknxlHr/q9+S7TYh4IQ4E=
+
+Name: resources.arsc
+SHA1-Digest: iXIPcQGzIaNyXxw0RNqRYrb1KXg=
+
+Name: res/drawable/btn_other.png
+SHA1-Digest: whXIG7vcIKhZu3qBKZuyuhJ6e74=
+
+Name: res/drawable/icon_11.png
+SHA1-Digest: ZyQ4F5U8foNFloD6pAMSM8ppRFI=
+
+Name: res/drawable/icon_5.png
+SHA1-Digest: 0mrJY35vdcYmlp03NZDAprq4d9U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: HxyZztKrmTzdhQ6YKy4Ri7cLHR8=
+
+Name: res/drawable/icon_share.png
+SHA1-Digest: p2Q88ov26mixGmBj9KxBMQ3ys1g=
+
+Name: res/drawable/ic_action_camera.png
+SHA1-Digest: 1VhxZXq42v+jP8z/e/01Xx/Bcuc=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: 4aH3Xd4FxUnv9v8SaFBd7Y0KGps=
+
+Name: res/drawable/icon_10.png
+SHA1-Digest: Wf5Zntr49QdE20FaBpE+yE9TQKc=
+
+Name: res/layout/splash_activity.xml
+SHA1-Digest: YlZbDbLyc0h/vzv/hCn5hjEmCAE=
+
+Name: res/drawable/icon_19.png
+SHA1-Digest: U4WmyQAhjHvPNjr2Q3I6NvUYE68=
+
+Name: res/drawable/btn_rate_pressed.png
+SHA1-Digest: wVVGbV7OJQjkICWYWKdgoYh+d0U=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: mQFNPuSe8+YBfaG2EEXaEUg3qnQ=
+
+Name: res/drawable/btn_other_pressed.png
+SHA1-Digest: GNrAJcVZBpetCxbMHLMCU2pCS4E=
+
+Name: res/drawable/ic_action_picture.png
+SHA1-Digest: YJlFL4M9n8nPnySRpLGUif8K/iE=
+
+Name: classes.dex
+SHA1-Digest: 3WgTqLWjkND1fNI352jwqAQ8ge4=
+
+Name: res/layout/tatoo_image_list.xml
+SHA1-Digest: YzH640FwOFQcRNKvMuod3U4ZCns=
+
+Name: res/drawable/front_camera.png
+SHA1-Digest: PZ9y4Z3lDLWx+9wyHaRmN8Vwphs=
+
+Name: res/drawable/icon_delete.png
+SHA1-Digest: g9JQRbkxo/bYCPno99UOt1cHGAU=
+
+Name: res/drawable/icon_1.png
+SHA1-Digest: fZIVei1LHkyfW/Fz1qjMFZa4r/8=
+
+Name: res/drawable/icon_save.png
+SHA1-Digest: bQVjgQasVDQJEvMkTzwhpi6Vrxc=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: 9IaDxeqjuTjTkMklfgOBNUWUuDE=
+
+Name: res/drawable/icon_16.png
+SHA1-Digest: VXld6QCUxxzAMMs6gHLzkSzdTbE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: qCCgBhQ6Ufi7yENTR5L4TaN0fyY=
+

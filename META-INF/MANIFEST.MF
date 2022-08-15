@@ -1,0 +1,159 @@
+Manifest-Version: 1.0
+Created-By: ApkEditor(luomao2000@tom.com)
+
+Name: res/drawable/icon_14.png
+SHA1-Digest: gQRdgChulUzL+rGDoBfsA/Hea3Y=
+
+Name: res/layout/temp.xml
+SHA1-Digest: Wyp3Cp5xEIUiD0CIuEZuBz9abKc=
+
+Name: res/drawable/icon_20.png
+SHA1-Digest: su0jXKRE+UFfR7KsvZWME1bYnUY=
+
+Name: res/drawable/capture_image.png
+SHA1-Digest: 3iAmiecRI3WkOSQ/oo3f/pJ9V54=
+
+Name: res/drawable/icon_camera.png
+SHA1-Digest: y4Pp7Xj3ioEvs++JBpK9AdFE+0w=
+
+Name: res/drawable/icon_12.png
+SHA1-Digest: CoUunT4lfKhvvYS1qPfV3ndZqls=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ARixWpJjQznPNCQZxnxjlN2vrOU=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: nC6jibmBvmqwXK+u/TV+MYG3BNg=
+
+Name: res/drawable/list_background.xml
+SHA1-Digest: DCHHRavj+I5tDaOmdnp96eoqt+4=
+
+Name: res/drawable/splash.JPG
+SHA1-Digest: xpL1gE8FEFXlaZvMhIUoPonnpFc=
+
+Name: res/drawable/capture_image1.png
+SHA1-Digest: 3iAmiecRI3WkOSQ/oo3f/pJ9V54=
+
+Name: res/drawable/icon_18.png
+SHA1-Digest: DG+wDLMu5E5ppVqfzfy0I3zChdY=
+
+Name: res/drawable/icon_7.png
+SHA1-Digest: ZbOODUNMGrdqHim0A6XXo8fFEL4=
+
+Name: res/drawable/icon_8.png
+SHA1-Digest: 3Wsjj1TQzMGAo+sBXqJlGGBhyzU=
+
+Name: res/drawable/icon_gallery.png
+SHA1-Digest: 4YNKdE5xsf4NOCkAwOyfaQ2BFFc=
+
+Name: res/drawable/icon_13.png
+SHA1-Digest: MnWH6MJG44rctZTtG8A2Z8jeZlY=
+
+Name: res/drawable/icon_15.png
+SHA1-Digest: KR+hENBvc/zEO7umHdZobOWvqao=
+
+Name: res/drawable/icon_4.png
+SHA1-Digest: aOr8fHFOFQ+xk5L07B/AeAouhCY=
+
+Name: res/drawable/icon_2.png
+SHA1-Digest: JovmPpWQzkrvJBEQF43fnH05dw8=
+
+Name: res/drawable/icon_3.png
+SHA1-Digest: Uh4L6McUSAeHTqUMtMFcbSrM8+s=
+
+Name: res/drawable/other_button.xml
+SHA1-Digest: +GMI/EGbyRaeAaSHgGSuRG4Q9xk=
+
+Name: res/drawable/rate_button.xml
+SHA1-Digest: QkjEnYQXChWPzpjY7XW2va90RyA=
+
+Name: res/drawable/layout_background.xml
+SHA1-Digest: cjcVUXycS8YzamUXg+FeN7KWuBM=
+
+Name: res/drawable/icon_6.png
+SHA1-Digest: n5KERCbO+s2/jpm+kqYmf75O2IE=
+
+Name: res/drawable/background.png
+SHA1-Digest: UZhXvLEnUTXpexOkN8DOhhN7C+A=
+
+Name: res/drawable/icon_9.png
+SHA1-Digest: hKE5/X+K+KEpcVMzocipoHKuTcQ=
+
+Name: res/drawable/icon_17.png
+SHA1-Digest: z4Zp0jFUsNu5tJLquFA5BFBXhdk=
+
+Name: res/drawable/btn_rate.png
+SHA1-Digest: JRSLrBuQVpA1YxLY5FXXW8ufu/w=
+
+Name: resources.arsc
+SHA1-Digest: nLstpsMvSMuc+fqyGtnDP7K66dU=
+
+Name: res/drawable/icon_11.png
+SHA1-Digest: 1Njjb4Gph581uBHnafXeecuKe6c=
+
+Name: res/drawable/btn_other.png
+SHA1-Digest: r4RGX/aqZeVf8FwYMBGXmc+q7JU=
+
+Name: res/drawable/icon_5.png
+SHA1-Digest: e2uUYe+qmdDl4kecV3ldhuu8VxE=
+
+Name: res/drawable/icon_share.png
+SHA1-Digest: tRs0jqlbK1jOqELZAaSDRd5GFtc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7Fs5Lq1B47NWliR8nQj1DAA5nqM=
+
+Name: res/drawable/ic_action_camera.png
+SHA1-Digest: AXX+SsusCe3lFOu8is67QWPJnqk=
+
+Name: res/drawable/icon_10.png
+SHA1-Digest: C9alpSVIxqesR7Isb3To7E+mWkU=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: ZjI3hkSAkj48wWRx0PAsvAsoLJM=
+
+Name: res/layout/splash_activity.xml
+SHA1-Digest: EePxknc7RqYuDw3CQeVO32y/kHU=
+
+Name: res/drawable/icon_19.png
+SHA1-Digest: nWnhUYsIboZM/PaIVlLv8xc6/cY=
+
+Name: res/drawable/btn_rate_pressed.png
+SHA1-Digest: JRSLrBuQVpA1YxLY5FXXW8ufu/w=
+
+Name: res/drawable/btn_other_pressed.png
+SHA1-Digest: r4RGX/aqZeVf8FwYMBGXmc+q7JU=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: Xm8CbN5VaMkyFlHYEaoe4Homiws=
+
+Name: res/drawable/ic_action_picture.png
+SHA1-Digest: ZgervDd0a9nZU09vEzS0fLi/Uos=
+
+Name: res/layout/tatoo_image_list.xml
+SHA1-Digest: HCrMTb32eJx2urJS4CWSEKmdsVY=
+
+Name: classes.dex
+SHA1-Digest: ujQ4iCx95zSQO9CNLTwzA/djg3c=
+
+Name: res/drawable/front_camera.png
+SHA1-Digest: 1iXlzWSG/wuooRseUrqtBSi8gDw=
+
+Name: res/drawable/icon_delete.png
+SHA1-Digest: L9nDPdvberPqEsuERtU0WPfHFoU=
+
+Name: res/drawable/icon_save.png
+SHA1-Digest: ph+oQ4I8RM6ysZzUdiyaEqtInLo=
+
+Name: res/drawable/icon_1.png
+SHA1-Digest: cAf90tER2CMwJcZVCkRD/YlN+KU=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: AgpF1Wn+jL7heDCYIc0lvHtfLhU=
+
+Name: res/drawable/icon_16.png
+SHA1-Digest: UKsF7uNdg/TMMZyxjlvPLO58ejk=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Ii+da2rX/yp1MfiHeA5alNcv5Z8=
+
